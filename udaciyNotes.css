@@ -1,0 +1,35 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+	background-color: #FFFFD6;
+	font-family: Arial;
+}
+h1{ 
+	font-style: italic;
+	color: #685403;
+}
+.lesson{
+	background-color: #E58C33;
+	border-radius: 10px;
+	color: #FFFFD6;
+	padding: 10px;
+}
+h2 {
+	margin: 10px;
+}
+.descr{
+	background-color: #85AA44;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 5px;
+	color: #FFFFD6;
+}
+.intitle{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #685403;
+}
